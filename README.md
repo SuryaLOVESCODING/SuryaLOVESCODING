@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SuryaLOVESCODING
 - 👀 I’m interested in ... Programming and web dev, robotics, mobile applications
-- 🌱 I’m currently learning ... C++
+- 🌱 I’m currently learning ... MACHINE LEARNING AND REACT NATIVE
 - 💞️ I’m looking to collaborate on ... Discord
 - 📫 How to reach me ... Discord 
 
