@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SuryaLOVESCODING
+- 👋 Hi, I’m @SuryaN
 - 👀 I’m interested in ... Programming and web dev, robotics, mobile applications
 - 🌱 I’m currently learning ... MACHINE LEARNING AND REACT NATIVE
 - 💞️ I’m looking to collaborate on ... Discord
